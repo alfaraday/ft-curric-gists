@@ -1,19 +1,8 @@
-# Fundamentals Final Project
+# Asynchronous Web Apps Final Project
 ## Build a Bookmarks App
 
 ### Project Overview
-Using everything you've learned over the Fundamentals section of the course, you will build the frontend for an API-powered Bookmarks application that lets the user store and rate their custom web bookmarks.
-
-### Due Date and Grading
-You have until the end of day Friday (typically 6PM ET) to complete your project and submit it for evaluation. To receive a passing grade, the project must:
-
-* Fulfill every non-extension user story below
-* Fulfill every non-extension technical requirement below
-
-For successful submission, you *MUST*:
-
-1) Push your final version to the `gh-pages` branch of your repo. Your repo should be inside the cohort's organization and named `[yourname]-bookmarks-app`.
-2) Submit the project URL on the [Goals page of your Dashboard](https://dashboard.thinkful.com/goals) using the section titled "Submit API Hack Capstone". 
+Using everything you've learned in the course so far, you will build the frontend for an API-powered Bookmarks application that lets the user store and rate their custom web bookmarks. 
 
 ### User Stories
 
